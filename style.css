@@ -74,7 +74,7 @@ header{
     justify-content:space-around;
     align-items:center;
 
-    background-color:darkslategrey;
+    background-color:#252940;
     border-bottom:1px solid rgba(255,255,255,0.5); /* Den lille linje i bunden. */
 }
 
@@ -150,7 +150,7 @@ Logo og burger */
 
 /*MAIN*/
 #førsteboks{
-    background-image: url(img/børn.jpg);
+    background-image: linear-gradient(rgb(0, 0, 0,0.2), rgb(0, 0, 0,0.1)), url(img/børn.jpg);
     
     
     width: 100%;
@@ -186,27 +186,27 @@ Logo og burger */
 }
 
 #ko1a{
-    background-image: url(img/1a.jpg);
+    background-image: linear-gradient(rgb(0, 0, 0,0.2), rgb(0, 0, 0,0.1)), url(img/1a.jpg);
 }
 
 #ko2a{
-    background-image: url(img/2a.jpg);
+    background-image: linear-gradient(rgb(0, 0, 0,0.2), rgb(0, 0, 0,0.1)), url(img/2a.jpg);
 }
 
 #ko3a{
-    background-image: url(img/3a.jpg);
+    background-image: linear-gradient(rgb(0, 0, 0,0.2), rgb(0, 0, 0,0.1)), url(img/3a.jpg);
 }
 
 #ko1b{
-    background-image: url(img/1b.jpg);
+    background-image: linear-gradient(rgb(0, 0, 0,0.2), rgb(0, 0, 0,0.1)), url(img/1b.jpg);
 }
 
 #ko2b{
-    background-image: url(img/2b.jpg);
+    background-image: linear-gradient(rgb(0, 0, 0,0.2), rgb(0, 0, 0,0.1)), url(img/2b.jpg);
 }
 
 #ko3b{
-    background-image: url(img/3b.jpg);
+    background-image: linear-gradient(rgb(0, 0, 0,0.2), rgb(0, 0, 0,0.1)), url(img/3b.jpg);
 }
 
 	/*lille skærm*/
