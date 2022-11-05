@@ -233,6 +233,10 @@ header{
         font-size:15pt;
         font-weight:bold;
     }
+
+    nav > a:hover{
+        opacity: 80%;
+    }
 }
 
 
